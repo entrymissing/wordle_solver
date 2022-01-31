@@ -12,9 +12,9 @@ Turns out the best first guess for the wordlist here is "tares"
 
 ## Statistics
 
-Average number of guesses: 3.9451476793248945
-Median number of guesses: 4.0
-Number of words failed: 136
-Fraction of words failed: 0.03187998124706985
-Worst word with 11 guesses was years
-Guess paths of years was ['tares', 'reads', 'bears', 'fears', 'gears', 'hears', 'nears', 'pears', 'sears', 'wears', 'years']
+* Average number of guesses: 3.9451476793248945
+* Median number of guesses: 4.0
+* Number of words failed: 136
+* Fraction of words failed: 0.03187998124706985
+* Worst word with 11 guesses was years
+* Guess paths of years was ['tares', 'reads', 'bears', 'fears', 'gears', 'hears', 'nears', 'pears', 'sears', 'wears', 'years']
